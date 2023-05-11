@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873112439915",
+    "project_id": "lms-learning-edd72",
+    "storage_bucket": "lms-learning-edd72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873112439915:android:1d902076cfd767dd39f52e",
+        "android_client_info": {
+          "package_name": "com.example.lmslearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873112439915-kaast1mel8507rniacogbjvftk8hsppa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJJUISbWDVUMh1926rIxJl27tE-_3KXvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873112439915-kaast1mel8507rniacogbjvftk8hsppa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
